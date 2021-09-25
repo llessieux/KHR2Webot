@@ -1,0 +1,4 @@
+
+DEF KHR2_0 CustomRobot {
+	translation 0 0.22 0
+	rotation -1 0 0 1.54

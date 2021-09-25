@@ -1,0 +1,43 @@
+[KHR2-HV] Accelerometer TAG 20 
+[KHR2-HV] =======================================
+[KHR2-HV]  Motions:
+[KHR2-HV] =======================================
+[KHR2-HV] 7 = Kick Left
+[KHR2-HV] 8 = Bow
+[KHR2-HV] 9 = Kick Right
+[KHR2-HV] 4 = Punch Left
+[KHR2-HV] 6 = Punch Right
+[KHR2-HV] 1 = Zannen (deception)
+[KHR2-HV] 2 = Pushups
+[KHR2-HV] 3 = Happy
+[KHR2-HV] E = Walk Diag Left
+[KHR2-HV] R = Walk foward
+[KHR2-HV] T= Walk Diag Right
+[KHR2-HV] D = Side Step Left
+[KHR2-HV] G = Side Step Right
+[KHR2-HV] C = Turn Left ?
+[KHR2-HV] V= Walk backword
+[KHR2-HV] B = Turn Right ?
+[KHR2-HV] Alt R = Stand Up (from face down or up)
+[KHR2-HV] Ctrl V = Stand up (face down)
+[KHR2-HV] Shift 8 = Forward Wheel
+[KHR2-HV] Shift 2 = Backward Wheel
+[KHR2-HV] Shift 4 = Left Wheel
+[KHR2-HV] Shift 6 = Right Wheel
+[KHR2-HV] 5 = Home made scenario showing all the motions.
+[KHR2-HV] =======================================
+[KHR2-HV] Commands:
+[KHR2-HV] =======================================
+[KHR2-HV]  [ to increase the delay during steps (allow slow motion view)
+[KHR2-HV]  ] to decrease the delay during steps 
+[KHR2-HV]  "SPACE" set the delay to zero
+[KHR2-HV]  Q to Stop a scenario
+[KHR2-HV] Escape to Exit
+[KHR2-HV] playing motion 23
+[KHR2-HV] Playing Motion 2HV024RC_Startup2.RCB 
+[KHR2-HV] playing motion 17
+[KHR2-HV] Playing Motion 2HV018RC_PushUps.RCB 
+[KHR2-HV] playing motion 22
+[KHR2-HV] Playing Motion 2HV023RC_Unhappy.RCB 
+[KHR2-HV] playing motion 13
+[KHR2-HV] Playing Motion 2HV014RC_Wheel_Front.RCB 

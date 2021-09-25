@@ -1,0 +1,145 @@
+# File produced by AccuTrans 3D
+
+newmtl Body
+  Ns 20.8501
+  d 1.0
+  illum 2
+  Kd 0.753 0.753 0.753
+  Ka 0.753 0.753 0.753
+  Ks 1.0 1.0 1.0
+
+newmtl Head
+  Ns 20.8501
+  d 1.0
+  illum 2
+  Kd 0.753 0.753 0.753
+  Ka 0.753 0.753 0.753
+  Ks 1.0 1.0 1.0
+
+newmtl Left_Ankle
+  Ns 20.8501
+  d 1.0
+  illum 2
+  Kd 0.753 0.753 0.753
+  Ka 0.753 0.753 0.753
+  Ks 1.0 1.0 1.0
+
+newmtl Left_Arm1
+  Ns 20.8501
+  d 1.0
+  illum 2
+  Kd 0.753 0.753 0.753
+  Ka 0.753 0.753 0.753
+  Ks 1.0 1.0 1.0
+
+newmtl Left_Foot
+  Ns 20.8501
+  d 1.0
+  illum 2
+  Kd 0.753 0.753 0.753
+  Ka 0.753 0.753 0.753
+  Ks 1.0 1.0 1.0
+
+newmtl Left_Hand
+  Ns 20.8501
+  d 1.0
+  illum 2
+  Kd 0.753 0.753 0.753
+  Ka 0.753 0.753 0.753
+  Ks 1.0 1.0 1.0
+
+newmtl Left_Hip
+  Ns 20.8501
+  d 1.0
+  illum 2
+  Kd 0.753 0.753 0.753
+  Ka 0.753 0.753 0.753
+  Ks 1.0 1.0 1.0
+
+newmtl Left_Leg1
+  Ns 20.8501
+  d 1.0
+  illum 2
+  Kd 0.753 0.753 0.753
+  Ka 0.753 0.753 0.753
+  Ks 1.0 1.0 1.0
+
+newmtl Left_Leg3
+  Ns 20.8501
+  d 1.0
+  illum 2
+  Kd 0.753 0.753 0.753
+  Ka 0.753 0.753 0.753
+  Ks 1.0 1.0 1.0
+
+newmtl Left_Shoulder
+  Ns 20.8501
+  d 1.0
+  illum 2
+  Kd 0.753 0.753 0.753
+  Ka 0.753 0.753 0.753
+  Ks 1.0 1.0 1.0
+
+newmtl Right_Ankle
+  Ns 20.8501
+  d 1.0
+  illum 2
+  Kd 0.753 0.753 0.753
+  Ka 0.753 0.753 0.753
+  Ks 1.0 1.0 1.0
+
+newmtl Right_Arm1
+  Ns 20.8501
+  d 1.0
+  illum 2
+  Kd 0.753 0.753 0.753
+  Ka 0.753 0.753 0.753
+  Ks 1.0 1.0 1.0
+
+newmtl Right_Foot
+  Ns 20.8501
+  d 1.0
+  illum 2
+  Kd 0.753 0.753 0.753
+  Ka 0.753 0.753 0.753
+  Ks 1.0 1.0 1.0
+
+newmtl Right_Hand
+  Ns 20.8501
+  d 1.0
+  illum 2
+  Kd 0.753 0.753 0.753
+  Ka 0.753 0.753 0.753
+  Ks 1.0 1.0 1.0
+
+newmtl Right_Hip
+  Ns 20.8501
+  d 1.0
+  illum 2
+  Kd 0.753 0.753 0.753
+  Ka 0.753 0.753 0.753
+  Ks 1.0 1.0 1.0
+
+newmtl Right_Leg1
+  Ns 20.8501
+  d 1.0
+  illum 2
+  Kd 0.753 0.753 0.753
+  Ka 0.753 0.753 0.753
+  Ks 1.0 1.0 1.0
+
+newmtl Right_leg3
+  Ns 20.8501
+  d 1.0
+  illum 2
+  Kd 0.753 0.753 0.753
+  Ka 0.753 0.753 0.753
+  Ks 1.0 1.0 1.0
+
+newmtl Right_Shoulder
+  Ns 20.8501
+  d 1.0
+  illum 2
+  Kd 0.753 0.753 0.753
+  Ka 0.753 0.753 0.753
+  Ks 1.0 1.0 1.0

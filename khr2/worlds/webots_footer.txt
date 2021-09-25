@@ -1,0 +1,8 @@
+	name "KHR2-HV"
+	model "KHR2-HV"
+	constructor "KONDO Kagaku Co LTD"
+	author "Laurent Lessieux"
+	description "biped robot"
+	controller "khr2"
+}
+

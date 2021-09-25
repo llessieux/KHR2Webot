@@ -1,0 +1,93 @@
+#VRML_SIM V5.0 utf8
+#000000
+#!mainWindow: 0.37625 0 0.6225 0.7575
+#!sceneTreeWindow: 0 0 0.375 0.7575 0.189375
+#!logWindow: 0 0.7625 0.99875 0.21
+
+WorldInfo {
+  info [
+    "Model of a KHR2 "
+    "Laurent Lessieux"
+    "Date: FALL 2006"
+  ]
+  title "Kondo KHR2-HV"
+  CFM 0
+  ERP 0.5
+  basicTimeStep 5
+  runRealTime TRUE
+  physics "khr2"
+}
+Viewpoint {
+  orientation -0.488632 0.85595 0.169081 0.864003
+  position 0.799228 0.742752 1.47037
+}
+Background {
+  skyColor [
+    0.4 0.7 1
+  ]
+}
+PointLight {
+  ambientIntensity 1
+  attenuation 0.4 0.4 0.4
+  location 1.5 2 1.5
+  castShadows TRUE
+}
+PointLight {
+  ambientIntensity 1
+  attenuation 0.4 0.4 0.4
+  location -1.5 2 -1.5
+}
+DEF TATAMI Solid {
+  translation 0.0618921 0 0.653058
+  children [
+    DEF WHITE_CENTER Shape {
+      appearance Appearance {
+        material Material {
+          ambientIntensity 1
+          diffuseColor 1 1 1
+          shininess 0.5
+          specularColor 1 1 1
+        }
+        texture ImageTexture {
+          url [
+            "textures/KONDO_LOGO_S.jpg"
+          ]
+        }
+      }
+      geometry IndexedFaceSet {
+        coord Coordinate {
+          point [
+            1.1 0 -1.1
+            -1.1 0 -1.1
+            -1.1 0 1.1
+            1.1 0 1.1
+          ]
+        }
+        texCoord TextureCoordinate {
+          point [
+            0 0
+            1 0
+            1 1
+            0 1
+          ]
+        }
+        coordIndex [
+          0, 1, 2, 3
+        ]
+        texCoordIndex [
+          0, 1, 2, 3, -1
+        ]
+      }
+    }
+  ]
+  name "ground"
+  boundingObject Transform {
+    translation 0 -0.1 0
+    children [
+      Box {
+        size 20.2 0.2 20.2
+      }
+    ]
+  }
+}
+

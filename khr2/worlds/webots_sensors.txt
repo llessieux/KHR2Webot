@@ -1,0 +1,15 @@
+DEF RCB3_GYRO_1 Receiver {
+	name "RCB3_GYRO_1"
+	channel 1
+}
+
+DEF RCB3_GYRO_2 Receiver {
+	name "RCB3_GYRO_2"
+	channel 2
+}
+
+DEF RCB3_ACCELEROMETER Receiver {
+	name "RCB3_ACCELEROMETER"
+	channel 3
+}
+
